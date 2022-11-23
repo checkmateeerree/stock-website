@@ -1,1 +1,1 @@
-web: gunicorn app: stockpage
+web: gunicorn app: app
