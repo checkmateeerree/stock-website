@@ -126,3 +126,4 @@ widgetsnbextension==3.6.1
 yahoo-fin==0.8.9.1
 yfinance==0.1.74
 zipp==3.8.1
+gunicorn
